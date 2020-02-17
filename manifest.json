@@ -15,14 +15,14 @@
         "default": "Alt+M",
         "mac": "Alt+M"
       },
-      "description": "Text Selection -- Google Satellite Shortcut"
+      "description": "Text Selection -- Google Maps Shortcut"
     },
     "satellite-shortcut": {
       "suggested_key": {
         "default": "Alt+S",
         "mac": "Alt+S"
       },
-      "description": "Text Selection -- Google Satellite Shortcut"
+      "description": "Text Selection -- Google Maps Satellite Shortcut"
     }
   },
   "content_scripts": [
